@@ -27,3 +27,19 @@ The HR department of the company wants to generate different employee reports fo
 6. Perform salary calculations and rounding.
 7. Handle NULL values in employee records.
 8. Generate reports using conditional logic.
+
+QUESTION: 3
+1. Find the total number of employees working in the company.
+2. Calculate the total monthly salary expense of the company.
+3. Find the average salary of all employees.
+4. Identify the highest and lowest salaries in the company.
+5. Generate a department-wise report showing the total number of employees in each department.
+6. Calculate the total salary expense for each department.
+7. Find the average salary offered by each department.
+8. Display departments having more than one employee.
+9. Identify departments where the average employee salary is greater than ₹50,000.
+10. Retrieve department-wise employee details where salary is greater than ₹40,000 and filter the groups based on the number of employees.
+11. Generate an employee report displaying Employee ID, Employee Name, Salary, and Department Name. Only show employees who have a matching department.
+12. Generate a report displaying all employees along with their department names, including employees who are not assigned to any department.
+13. Identify departments that currently do not have any employees.
+14. Identify employees whose DepartmentID does not match any existing department record.
